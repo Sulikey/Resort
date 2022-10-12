@@ -1,0 +1,43 @@
+h1 {
+    color:brown;
+    text-align: center;
+    font-size: x-large
+    font-style: initial;
+} 
+
+h2 {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    text-align: center;
+}
+
+p {
+    font-size: x-large
+}
+
+
+p {
+    text-align: center;
+    font-weight: 101;
+    font-family: 'Times New Roman', Times, serif
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: normal;
+}
+
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
